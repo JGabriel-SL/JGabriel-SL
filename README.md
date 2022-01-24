@@ -26,6 +26,8 @@
 
 #### <i>So... U can see my projects and talk with me if u want or need.</i>
 
+<a href="https://www.instagram.com/jgabriel44_"><img src="https://img.shields.io/badge/jgabriel44-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/jgabrielsl/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
 <!--
 **JGabriel-SL/JGabriel-SL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
