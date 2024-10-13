@@ -22,6 +22,7 @@ And I have experience using :
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PrimeFaces](https://img.shields.io/badge/primefaces-%23478eff.svg?style=for-the-badge&logo=primefaces&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-%230ee652.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
 <i>I'm also looking for opportunities as a Junior Web Developer, so if you want to know more about me, let's connect and talk!</i>
 
