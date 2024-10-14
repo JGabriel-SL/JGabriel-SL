@@ -26,7 +26,7 @@ And I have experience using :
 
 <i>I'm also looking for opportunities as a Junior Web Developer, so if you want to know more about me, let's connect and talk!</i>
 
-<a href="https://www.instagram.com/jgabriel44_"><img src="https://img.shields.io/badge/jgabriel44-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
+<!-- <a href="https://www.instagram.com/jgabriel44_"><img src="https://img.shields.io/badge/jgabriel44-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img></a> -->
 <a href="https://www.linkedin.com/in/jgabrielsl/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
 <!--
