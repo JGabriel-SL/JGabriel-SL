@@ -2,7 +2,7 @@
 
 I'm a web developer. I love programming and cats 😻, and I want to make a difference in the future. Currently I'm studying more about front-end to optimize my habilities in **React.js and performance optimization in web applications**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgabriel-sl&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 My hard skills range from reactive Single Page Applications and web design.
 
